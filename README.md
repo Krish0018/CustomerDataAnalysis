@@ -6,7 +6,7 @@ This repository contains code and resources for a Customer Data Analysis project
 ## Project Highlights
 ### Data Collection: 
 Collected and cleaned data from multiple sources and databases.
-### Data Analysis: 
+### Data Analysis:
 Utilized Python, SQL, and data visualization tools to analyze customer behavior.
 ### Business Impact: 
 Contributed to increased customer acquisition, revenue growth, and improved customer satisfaction.
